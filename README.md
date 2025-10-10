@@ -1,7 +1,8 @@
 # MyDigitalLibrary (Libreria digitale)
 ## AA24/25 - Progetto del corso **Programmazione ad Oggetti** [SC02123180]
 Il seguente progetto è un lavoro realizzato singolarmente per il conseguimento del 50% della valutazione del corso sopracitato.
-**La valutazione per questo lavoro è stata: 30 con lode**
+
+**La valutazione per questo lavoro è stata: 30 con lode.**
 
 La traccia accademica prevedeva la realizzazione di un'applicazione in linguaggio C++ e framework Qt per la gestione di Media (classe base astratta) all'interno di una libreria digitale.
 
