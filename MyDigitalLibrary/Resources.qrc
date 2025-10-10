@@ -1,0 +1,45 @@
+<RCC>
+    <qresource prefix="">
+        <file alias="InterRegular.ttf">Resources/Fonts/InterRegular.ttf</file>
+        <file alias="Style.qss">Style.qss</file>
+        <file alias="Biblioteca.svg">Resources/Icons/Biblioteca.svg</file>
+    </qresource>
+    <qresource prefix="Error">
+        <file alias="NoImageEditor.jpg">Resources/Images/NoImageEditor.jpg</file>
+        <file alias="NoImageDettagli.jpg">Resources/Images/NoImageDettagli.jpg</file>
+        <file alias="NoImagePreview.jpg">Resources/Images/NoImagePreview.jpg</file>
+    </qresource>
+    <qresource prefix="Lingua">
+        <file alias="IT.png">Resources/Icons/IT.png</file>
+        <file alias="EN.png">Resources/Icons/EN.png</file>
+        <file alias="ES.png">Resources/Icons/ES.png</file>
+    </qresource>
+    <qresource prefix="FnsIniziale">
+        <file alias="File.svg">Resources/Icons/File.svg</file>
+        <file alias="Book.svg">Resources/Icons/Book.svg</file>
+        <file alias="Database.svg">Resources/Icons/Database.svg</file>
+        <file alias="Info.svg">Resources/Icons/Info.svg</file>
+    </qresource>
+    <qresource prefix="FnsCatalogo">
+        <file alias="Import.svg">Resources/Icons/Import.svg</file>
+        <file alias="Insert.svg">Resources/Icons/Insert.svg</file>
+        <file alias="Export.svg">Resources/Icons/Export.svg</file>
+        <file alias="RightArrow.svg">Resources/Icons/RightArrow.svg</file>
+    </qresource>
+    <qresource prefix="FnsDettagli">
+        <file alias="Delete.svg">Resources/Icons/Delete.svg</file>
+        <file alias="Edit.svg">Resources/Icons/Edit.svg</file>
+    </qresource>
+    <qresource prefix="FrmEditor">
+        <file alias="Restore.svg">Resources/Icons/Restore.svg</file>
+        <file alias="Save.svg">Resources/Icons/Save.svg</file>
+    </qresource>
+    <qresource prefix="MediaEditorVisitor">
+        <file alias="Lingua.svg">Resources/Icons/Lingua.svg</file>
+    </qresource>
+    <qresource prefix="CrossApp">
+        <file alias="EraseUndo.svg">Resources/Icons/EraseUndo.svg</file>
+        <file alias="Back.svg">Resources/Icons/Back.svg</file>
+        <file alias="DownArrow.svg">Resources/Icons/DownArrow.svg</file>
+    </qresource>
+</RCC>
