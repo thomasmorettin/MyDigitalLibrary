@@ -21,4 +21,8 @@ Il lavoro è completo dei seguenti elementi:
 * file [Salvataggio.json](EsempioPersistenza/Salvataggio.json) per un esempio di persistenza dei dati;
 
 ##Previews del prodotto software
-<img src="Previews/Prw_FnsIniziale.png" width="100" height="100"/>
+
+<img src="Previews/Prw_FnsIniziale.png" width="500"/>
+<img src="Previews/Prw_FnsCatalogo.png" width="500"/>
+<img src="Previews/Prw_FnsDettagli.png" width="500"/>
+<img src="Previews/Prw_FrmEditor.png" width="500"/>
