@@ -19,8 +19,6 @@ Il lavoro è completo dei seguenti elementi:
   * possibili sviluppi futuri.
 * [diagramma UML](Relazione/DiagrammaUML.svg) completo di tutte le classi che compongono il prodotto;
 * file [Salvataggio.json](EsempioPersistenza/Salvataggio.json) per un esempio di persistenza dei dati;
-* previews per la visualizzazione dell'interfaccia grafica senza necessità di esecuzione dell'applicazione:
-  * ![Finestra di avvio dell'applicazione](Previews/Prw_FnsIniziale.png)
-  * ![Finestra di visualizzazione del catalogo](Previews/Prw_FnsCatalogo.png)
-  * ![Finestra di visualizzazione dettagli del Media](Previews/Prw_FnsDettagli.png)
-  * ![Finestra per il form di editing del Media](Previews/Prw_FrmEditor.png)
+
+##Previews del prodotto software
+<img src="Previews/Prw_FnsIniziale.png" width="100" height="100"/>
