@@ -22,10 +22,10 @@ Il lavoro è completo dei seguenti elementi:
 
 ## Previews del prodotto software
 <p align="center">
-  <img src="Previews/Prw_FnsIniziale.png" alt="Finestra iniziale" width="500" style="display:inline-block;"/>
-  <img src="Previews/Prw_FnsCatalogo.png" alt="Finestra catalogo" width="500" style="display:inline-block;"/>
-  <img src="Previews/Prw_FnsDettagli.png" alt="Finestra dettagli" width="500" style="display:inline-block;"/>
-  <img src="Previews/Prw_FrmEditor.png" alt="Form di editing" width="500" style="display:inline-block;"/>
+  <img src="Previews/Prw_FnsIniziale.png" alt="Finestra iniziale" width="49%"/>
+  <img src="Previews/Prw_FnsCatalogo.png" alt="Finestra catalogo" width="49%"/>
+  <img src="Previews/Prw_FnsDettagli.png" alt="Finestra dettagli" width="49%"/>
+  <img src="Previews/Prw_FrmEditor.png" alt="Form di editing" width="49%"/>
 </p>
 <p align="center"><sub>
   1. Finestra iniziale per l'avvio del prodotto software.
