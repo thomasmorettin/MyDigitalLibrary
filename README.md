@@ -3,11 +3,11 @@ Il seguente progetto è un lavoro realizzato singolarmente per il conseguimento 
 
 La valutazione per questo lavoro è stata: 30 con lode.
 
->La traccia accademica prevedeva la realizzazione di un'applicazione in **linguaggio C++** e **framework Qt** per la gestione di Media (classe base astratta) all'interno di una libreria digitale.
+>La traccia accademica prevede la realizzazione di un'applicazione in **linguaggio C++** e **framework Qt** per la gestione di Media (classe base astratta) all'interno di una libreria digitale.
 >
->Le classi derivate concrete dell'applicazione dovevano essere almeno 3, sui quali oggetti istanziati potevano essere svolte almeno le **operazioni CRUD**; richiesta esplicita della commessa era la creazione di funzionalità per la **persistenza dei dati** all'interno di file system (formato XML o JSON).
+>Le classi derivate concrete dell'applicazione devono essere almeno 3, sui quali oggetti istanziati devono essere svolte almeno le **operazioni CRUD**; richiesta esplicita della commessa è la creazione di funzionalità per la **persistenza dei dati** all'interno di file system (formato XML o JSON).
 >
->Fondamentale per la riuscita del progetto risultava l'implementazione di **design pattern MVC**.
+>Fondamentale per la riuscita del progetto risulta l'implementazione di **design pattern MVC**.
 
 ## Contenuto del repository
 Il lavoro è completo dei seguenti elementi:
