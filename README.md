@@ -21,8 +21,8 @@ Il lavoro è completo dei seguenti elementi:
 
 ## Previews del prodotto software
 <p align="center">
-  <img src="Previews/Prw_FnsIniziale.png" alt="Finestra iniziale"/>
-  <img src="Previews/Prw_FnsCatalogo.png" alt="Finestra catalogo/">
-  <img src="Previews/Prw_FnsDettagli.png" alt="Finestra dettagli"/>
-  <img src="Previews/Prw_FrmEditor.png" alt="Form di editing"/>
+  <img src="Previews/FnsIniziale.png" alt="Finestra iniziale"/>
+  <img src="Previews/FnsCatalogo.png" alt="Finestra catalogo/">
+  <img src="Previews/FnsDettagli.png" alt="Finestra dettagli"/>
+  <img src="Previews/FrmEditor.png" alt="Form di editing"/>
 </p>
