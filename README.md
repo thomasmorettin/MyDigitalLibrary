@@ -17,7 +17,7 @@ Il lavoro è completo dei seguenti elementi:
   * rendicontazione delle ore impiegate per portare a termine il lavoro;
   * possibili sviluppi futuri.
 * [**diagramma UML**](Relazione/DiagrammaUML.svg) completo di tutte le classi che compongono il prodotto;
-* file [**Salvataggio.json**](Savings/Salvataggio.json) per un esempio di persistenza dei dati;
+* file [**Salvataggio.json**](MyDigitalLibrary/Savings/Salvataggio.json) per un esempio di persistenza dei dati;
 
 ## Previews del prodotto software
 <p align="center">
