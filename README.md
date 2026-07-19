@@ -9,15 +9,15 @@ Il seguente progetto è un lavoro realizzato singolarmente per il conseguimento 
 
 ## Contenuto del repository
 Il lavoro è completo dei seguenti elementi:
-* [**progetto**](MyDigitalLibrary) completo di tutti i file di classe e risorse necessari;
-* [**relazione tecnica**](Relazione/RelazioneTecnica.pdf) con i seguenti approfondimenti:
+* [progetto](MyDigitalLibrary) completo di tutti i file di classe e risorse necessari;
+* [relazione tecnica](Relazione/RelazioneTecnica.pdf) con i seguenti approfondimenti:
   * descrizione del modello MVC che organizza il funzionamento del prodotto software;
   * spiegazione dell'utilizzo "non banale" di polimorfismo, principalmente grazie all'implementazioe di design pattern Visitor;
   * descrizione delle implementazioni funzionali e grafiche;
   * rendicontazione delle ore impiegate per portare a termine il lavoro;
   * possibili sviluppi futuri.
-* [**diagramma UML**](Relazione/DiagrammaUML.svg) completo di tutte le classi che compongono il prodotto;
-* file [**Salvataggio.json**](MyDigitalLibrary/Savings/Salvataggio.json) per un esempio di persistenza dei dati;
+* [diagramma UML](Relazione/DiagrammaUML.svg) completo di tutte le classi che compongono il prodotto;
+* file [Salvataggio.json](MyDigitalLibrary/Savings/Salvataggio.json) per un esempio di persistenza dei dati;
 
 ## Previews del prodotto software
 <p align="center">
